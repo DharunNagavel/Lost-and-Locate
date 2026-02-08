@@ -41,7 +41,7 @@ export default function Login() {
       <div className="bg-accentLight w-full max-w-md p-8 rounded-2xl shadow-xl">
 
         <h2 className="text-3xl font-bold text-primaryMain text-center">
-          {isSignup ? "Create -------Account" : "Sign In"}
+          {isSignup ? "Create Account" : "Sign In"}
         </h2>
 
         <p className="text-primaryDark text-center mt-2">
